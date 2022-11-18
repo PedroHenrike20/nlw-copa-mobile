@@ -17,7 +17,7 @@
 
 ## NLW Copa - Mobile
 <br>
-Uma aplicação mobile incrível da Rocketseat utilizando os serviços OAuth para realizar o login com a conta do Google, retornando informações pessoais do usuário dentro do aplicativo. 
+Uma aplicação mobile incrível da Rocketseat utilizando os serviços OAuth para realizar o login com a conta do Google para recuperar informações pessoais da conta do usuário dentro do aplicativo. E para esse desing inédito do app, utilizei a tecnologia do Nativebase.
 <br>
 <br>
 
