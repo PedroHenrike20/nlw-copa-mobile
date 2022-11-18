@@ -7,7 +7,7 @@
  </div>
  <br/>
  
- <div align="center,">
+ <div align="center">
  <img align="center" alt="React_native_screen_project" height="590" width="300" src="https://user-images.githubusercontent.com/64162307/202734278-c9177275-7404-4ec9-a07c-3b2a38706f0f.png" style="margin-right: 25px"/> 
  <img align="center" alt="React_native_screen_project" height="590" width="300" src="https://user-images.githubusercontent.com/64162307/202734444-0ac25165-7ebf-4dcb-90f9-aba6900406c8.png" style="margin-right: 25px"/> 
  <img align="center" alt="React_native_screen_project" height="590" width="300" src="https://user-images.githubusercontent.com/64162307/202734672-04eb7b49-c02b-48e4-ba57-64463c660ff2.png" style="margin-right: 25px"/>
