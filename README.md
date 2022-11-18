@@ -47,7 +47,7 @@ Uma aplicação mobile incrível da Rocketseat utilizando os serviços OAuth par
 <!-- REACT NATIVE -->
 <div>
 <img align="center"  alt="ReactNative" width="200" height="80" src="https://braze-marketing-assets.s3.amazonaws.com/images/partner_logos/react-native.png" style="margin-right: 25px"/> <br> <br>
-<img align="center" alt="Google Cloud" height="100" width="170" src="https://logodownload.org/wp-content/uploads/2018/07/google-cloud-logo-1.png" /> <br>
+<img align="center" alt="Google Cloud" height="50" width="170" src="https://logodownload.org/wp-content/uploads/2018/07/google-cloud-logo-1.png" /> <br>
 
 <!-- CSS -->
 <img align="center" alt="NativeBase" height="200" width="240" src="https://nativebase.io/img/nativebase-logo-dark.svg" style="margin-bottom: 150px"/> 
